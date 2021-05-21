@@ -1,0 +1,76 @@
+#+TITLE: Docs
+
+This is a /test/ of *gitlab* so ~see~ some of the =formating= etc.
+- simple
+- list
+
+And some latex $f_\alpha(\gamma_1,\gamma_2)$
+
+* Companies
+:PROPERTIES:
+:COLUMNS: %15Item %5Founded %Topic %Funding
+:END:
+
+#+BEGIN: columnview
+| Item             | Founded | Topic      | Funding      |
+|------------------+---------+------------+--------------|
+| Companies        |         |            |              |
+| Zapata Computing |    2017 | algorithms | $5.4 million |
+| PsiQuantum       |    2016 | hardware   | ?            |
+#+END:
+
+
+** Zapata Computing
+:PROPERTIES:
+:URL: https://zapatacomputing.com/
+:Founded: 2017
+:Topic: algorithms
+:Funding: $5.4 million
+:Country: US
+:People: Christopher Savoie (CEO); Alán Aspuru-Guzik
+:END:
+
+Year founded: 2017
+Funding: $5.4 million
+Headquarters: Cambridge, Mass.
+CEO: Christopher Savoie, who previously served as Chairman and CEO of GNI Group
+
+What they do: According to a Zapata Computing representative, quantum hardware is approaching the limit where classical computers can no longer simulate the outcome of a quantum algorithm run on such hardware. This creates a “computational bottleneck.”
+
+Zapata Computing develops software and algorithms that run on gate-model quantum computers. It also provides a set of tools that help developers create software and algorithms that are used to migrate workloads from classical computers to quantum circuits. These quantum circuits can then be executed on quantum hardware. Zapata also provides tools that help interpret the results of quantum measurements.
+
+Key Differentiator: According to a Zapata spokesperson, Zapata’s team has “developed and published many of the fundamental algorithms that are useful on near-term quantum computers.” This class of algorithms – variational algorithms – can run on the “noisy” quantum computers being built today. Unlike the algorithms that require the fault-tolerant quantum computers that are expected in five to10 years, variational approaches are beginning to hit the market now.
+
+Competitors include: Google, IBM, Rigetti, Intel, Microsoft, IonQ, QCWare, 1Qbit, CQC and Xanadu
+
+Customers include: None announced.
+
+Why they’re a hot startup to watch: Zapata Computing has raised a decent-sized seed round and has a founder who has guided a company to a successful IPO.
+
+Zapata is backed by $5.4 million in seed funding, co-led by The Engine (the venture firm founded by MIT to invest in tech startups) and Boston-based Pillar VC, with participation from FF Science and Prelude Ventures. CEO Christopher Savoie founded the pharmaceutical company GNI Group and served as its chairman and CEO, leading it to a successful IPO on the Tokyo Stock Exchange in 2007. Zapata’s focus on variational quantum algorithms could help it carve out a niche in the market while other competitors are still stuck in the R&D phase.
+
+---
+
+Zapata Computing empowers enterprise teams to accelerate quantum solutions and capabilities. It introduced Orquestra, an end-to-end, workflow-based toolset for quantum computing. In addition to previously available backends that include a full range of simulators and classical resources, Orquestra now integrates with Qiskit and IBM Quantum's open quantum systems, Honeywell's System Model HØ, and Amazon Braket, the company said.
+
+The Orquestra workflow platform provides access to Honeywell's HØ, and was designed to enable teams to compose, run, and analyze complex, quantum-enabled workflows and challenging computational solutions at scale, Zapata said. Orquestra is purpose-built for quantum machine learning, optimization, and simulation problems across industries.
+
+---
+
+Founded in 2017 and located in Boston, Massachusetts, Zapata Computing is a quantum computing software company spun out of Harvard University and launched by a group of Harvard scientists, including Alán Aspuru-Guzik. With Fortune 100 and Global 1000 companies, they develop solutions for a wide range of industries including chemistry, logistics, finance, oil and gas, aviation, pharmaceuticals and materials. Zapata’s platform, Orquestra™, allows users to compose quantum-enabled workflows and orchestrate their execution across classical and quantum technologies. Orquestra combines a powerful software platform, quantum algorithm libraries, and example workflows across machine learning, simulation and optimization.
+
+
+** PsiQuantum
+:PROPERTIES:
+:URL: https://psiquantum.com/
+:Founded: 2016
+:Topic: hardware
+:Funding: ?
+:Country: USA
+:People: Jeremy
+:END:
+
+
+PsiQuantum was formed in June 2016 and based in Palo Alto, California. They are using a photonic approach to manufacture a universal quantum computer at GlobalFoundries a CMOS silicon foundry Their goal is to provide a 1 million physical qubit quantum computer with error correction by the middle of this decade.
+
+US Hardware
